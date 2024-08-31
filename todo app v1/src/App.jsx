@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <center><Appname></Appname></center>
-        <Todo></Todo>
+      <Todo></Todo>
         <Additem1></Additem1>
         <Additem2></Additem2>
       </div>
